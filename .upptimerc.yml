@@ -29,7 +29,7 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/2 * * * *"
+  uptime: "*/5 * * * *"
   
 assignees:
   - Kaibu
