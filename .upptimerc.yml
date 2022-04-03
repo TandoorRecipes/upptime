@@ -37,7 +37,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/TandoorRecipes/recipes/bba81f659473dad6f8825b99a00b000d6fda4602/cookbook/static/assets/logo_color.svg
   name: Tandoor
-  introTitle: "**Tandoor**"
+  introTitle: "**Tandoor Status**"
   introMessage: Application for managing recipes, planning meals, building shopping lists and much much more!
   theme: dark
   navbar:
