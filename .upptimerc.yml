@@ -28,6 +28,8 @@ assignees:
   
 user-agent: Kaibu
 
+runner: [self-hosted, linux, ARM64, monitor]
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
