@@ -5,10 +5,28 @@ repo: upptime # The name of this repository
 sites:
   - name: Website
     url: https://tandoor.dev/
+    expectedStatusCodes:
+      - 200
+      - 201
+    maxResponseTime: 5000
   - name: App
     url: https://app.tandoor.dev/
+    expectedStatusCodes:
+      - 200
+      - 201
+    maxResponseTime: 5000
   - name: Docs
     url: https://docs.tandoor.dev/
+    expectedStatusCodes:
+      - 200
+      - 201
+    maxResponseTime: 5000
+    
+assignees:
+  - Kaibu
+  - vabene1111
+  
+user-agent: Kaibu
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,6 +37,7 @@ status-website:
   name: Tandoor
   introTitle: "**Tandoor**"
   introMessage: Application for managing recipes, planning meals, building shopping lists and much much more!
+  theme: dark
   navbar:
     - title: Status
       href: /
