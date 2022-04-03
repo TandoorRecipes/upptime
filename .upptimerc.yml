@@ -15,10 +15,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.tandoor.dev
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/TandoorRecipes/recipes/bba81f659473dad6f8825b99a00b000d6fda4602/cookbook/static/assets/logo_color.svg
   name: Tandoor
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Tandoor**"
+  introMessage: Application for managing recipes, planning meals, building shopping lists and much much more!
   navbar:
     - title: Status
       href: /
