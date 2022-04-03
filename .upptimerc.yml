@@ -21,16 +21,7 @@ sites:
       - 200
       - 201
     maxResponseTime: 5000
-    
-workflowSchedule:
-  graphs: "0 0 * * *"
-  responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
-  uptime: "*/5 * * * *"
-  
+      
 assignees:
   - Kaibu
   - vabene1111
@@ -43,10 +34,9 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.tandoor.dev
-  # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/TandoorRecipes/recipes/bba81f659473dad6f8825b99a00b000d6fda4602/cookbook/static/assets/logo_color.svg
   name: Tandoor
-  introTitle: "**Tandoor Status**"
+  introTitle: "**Tandoor**"
   introMessage: Application for managing recipes, planning meals, building shopping lists and much much more!
   theme: dark
   navbar:
