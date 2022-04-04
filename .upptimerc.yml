@@ -36,7 +36,7 @@ status-website:
   cname: status.tandoor.dev
   logoUrl: https://raw.githubusercontent.com/TandoorRecipes/recipes/bba81f659473dad6f8825b99a00b000d6fda4602/cookbook/static/assets/logo_color.svg
   name: Tandoor
-  introTitle: "**Tandoor**"
+  introTitle: "**Tandoor Recipes**"
   introMessage: Application for managing recipes, planning meals, building shopping lists and much much more!
   theme: dark
   navbar:
