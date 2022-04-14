@@ -4,19 +4,19 @@
     "url": "https://tandoor.dev/",
     "icon": "https://favicons.githubusercontent.com/tandoor.dev",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 531,
-    "timeDay": 551,
-    "timeWeek": 610,
-    "timeMonth": 531,
-    "timeYear": 531,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 529,
+    "timeDay": 532,
+    "timeWeek": 597,
+    "timeMonth": 529,
+    "timeYear": 529,
     "dailyMinutesDown": {
-      "2022-04-14": 0
+      "2022-04-14": 12
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://app.tandoor.dev/",
     "icon": "https://favicons.githubusercontent.com/app.tandoor.dev",
     "slug": "app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 824,
-    "timeDay": 748,
-    "timeWeek": 919,
-    "timeMonth": 824,
-    "timeYear": 824,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 826,
+    "timeDay": 795,
+    "timeWeek": 916,
+    "timeMonth": 826,
+    "timeYear": 826,
     "dailyMinutesDown": {
-      "2022-04-14": 0
+      "2022-04-14": 12
     }
   },
   {
