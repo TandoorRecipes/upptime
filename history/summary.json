@@ -22,7 +22,7 @@
     "url": "https://app.tandoor.dev/",
     "icon": "https://favicons.githubusercontent.com/app.tandoor.dev",
     "slug": "app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1069,
     "timeMonth": 1144,
     "timeYear": 1026,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-20": 0
+    }
   },
   {
     "name": "Docs",
