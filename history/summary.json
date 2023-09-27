@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 640,
-    "timeDay": 480,
-    "timeWeek": 543,
-    "timeMonth": 620,
-    "timeYear": 618,
+    "timeDay": 627,
+    "timeWeek": 564,
+    "timeMonth": 625,
+    "timeYear": 619,
     "dailyMinutesDown": {
       "2023-06-22": 45
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 1235,
-    "timeDay": 944,
-    "timeWeek": 1366,
-    "timeMonth": 1322,
+    "timeDay": 1182,
+    "timeWeek": 1389,
+    "timeMonth": 1331,
     "timeYear": 1276,
     "dailyMinutesDown": {
       "2023-09-21": 17,
@@ -50,16 +50,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.tandoor.dev.ico",
     "slug": "docs",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 48,
-    "timeWeek": 105,
-    "timeMonth": 129,
-    "timeYear": 144,
+    "timeDay": 153,
+    "timeWeek": 118,
+    "timeMonth": 133,
+    "timeYear": 145,
     "dailyMinutesDown": {}
   }
 ]
