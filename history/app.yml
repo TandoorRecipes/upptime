@@ -1,7 +1,7 @@
 url: https://app.tandoor.dev/
-status: up
+status: degraded
 code: 200
-responseTime: 683
-lastUpdated: 2026-03-06T23:33:09.538Z
+responseTime: 20829
+lastUpdated: 2026-03-07T19:11:05.449Z
 startTime: 2022-04-03T14:41:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
